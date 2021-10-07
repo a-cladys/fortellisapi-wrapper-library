@@ -6,7 +6,7 @@ Please install the library using below comand in the terminal.
 
 ```diff
 
-npm i fortellisapi-wrapper-library in green
+npm i fortellisapi-wrapper-library 
 ```
 (https://www.npmjs.com/package/fortellisapi-wrapper-library)
 
